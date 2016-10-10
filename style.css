@@ -1,0 +1,19 @@
+
+h1 {
+  background-color: white;
+  width: 50%;
+  margin-left: 5cm;
+  border-style: groove;
+  border-width: thin;
+  border-color: black;
+}
+body {
+text-align: center;
+color: rgba(21,67,96,0.8);
+background-color: #FFA07A;
+font-family: arial;
+font-weight: bold;
+font-decoration: underline;
+font-style: italic;
+font-size: 5ppx;
+}
